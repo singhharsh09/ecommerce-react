@@ -28,5 +28,3 @@ Initial Setup for react js
       npm start
   b.(in visual studio code)->open the folder where the project is present->open new terminal in vs code->command npm start
   7.Your app is successfully launched at port 3000 at local system.
-  8.git adding processes
-    
